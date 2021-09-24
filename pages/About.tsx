@@ -5,7 +5,7 @@ function About() {
   return (
     <div>
       <Layout />
-      <p>blog</p>
+      <p>about</p>
     </div>
   );
 }
