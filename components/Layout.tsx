@@ -10,6 +10,7 @@ interface LayoutProps {
 }
 function Layout(props: LayoutProps) {
   const { children, pageTitle } = props;
+
   return (
     <>
       <Head>
