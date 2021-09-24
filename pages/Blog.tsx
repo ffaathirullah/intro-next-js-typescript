@@ -4,7 +4,7 @@ import Layout from "./../components/Layout";
 function Blog() {
   return (
     <div>
-      <Layout />
+      <Layout pageTitle="Blog" />
       <p>blog</p>
     </div>
   );
